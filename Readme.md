@@ -3,6 +3,9 @@
 -> apt update
 -> apt upgrade -y
 -> apt install git -y
+-> git clone https://github.com/JaeXploit/dbsV1
+-> cd dbsV1
+-> bash install.sh
 ```
 ### FOR SQLMAP
 ```sh
