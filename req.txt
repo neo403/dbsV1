@@ -1,0 +1,8 @@
+bs4
+colorama
+requests
+tqdm
+cython
+GitPython
+rich
+futures
